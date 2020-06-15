@@ -6,7 +6,7 @@ body {
   font-size: 16px;
   line-height: 32px;
   color: #222222;
-  background-image: url("img/hero-bg.jpg");
+  background-image: url("img3/hero-bg.jpg");
   background-repeat: no-repeat;
   background-position-y: top;
   background-position-x: calc(50vw + 16px);
@@ -46,12 +46,12 @@ body {
 
 .header-email {
   padding-left: 30px;
-  background-image: url("img/icon-email-header.svg");
+  background-image: url("img3/icon-email-header.svg");
 }
 
 .header-phone {
   padding-left: 25px;
-  background-image: url("img/icon-phone-header.svg");
+  background-image: url("img3/icon-phone-header.svg");
 }
 
 .hero-image {
@@ -62,7 +62,7 @@ body {
 .hero-image .container {
   padding-left: 0;
   padding-right: 0;
-  background-image: url("img/dotted-border-v.svg");
+  background-image: url("img3/dotted-border-v.svg");
   background-repeat: repeat-y;
   background-position: top left;
 }
@@ -121,7 +121,7 @@ body {
   left: -32px;
   width: 16px;
   height: 28px;
-  background-image: url("img/icon-scroll.svg");
+  background-image: url("img3/icon-scroll.svg");
   background-repeat: no-repeat;
 }
 
@@ -164,7 +164,7 @@ body {
   right: -120px;
   width: 144px;
   height: 64px;
-  background-image: url("img/decor-dots1.svg");
+  background-image: url("img3/decor-dots1.svg");
 }
 
 .intro .container div:nth-of-type(2)::before {
@@ -172,7 +172,7 @@ body {
   left: -120px;
   width: 144px;
   height: 64px;
-  background-image: url("img/decor-dots2.svg");
+  background-image: url("img3/decor-dots2.svg");
 }
 
 .intro h3,
@@ -193,7 +193,7 @@ body {
 
 .intro .container div:nth-of-type(2) {
   margin-right: 0;
-  background-image: url("img/abilities.jpg");
+  background-image: url("img3/abilities.jpg");
   background-position: right;
   background-repeat: no-repeat;
 }
@@ -207,7 +207,7 @@ body {
   right: -120px;
   width: 64px;
   height: 64px;
-  background-image: url("img/decor-dots3.svg");
+  background-image: url("img3/decor-dots3.svg");
 }
 
 .skills::after {
@@ -215,7 +215,7 @@ body {
   left: -120px;
   width: 64px;
   height: 24px;
-  background-image: url("img/decor-dots4.svg");
+  background-image: url("img3/decor-dots4.svg");
 }
 
 .skills h3 {
@@ -241,12 +241,12 @@ body {
 }
 
 .skill-html {
-  background-image: url("img/icon-html.svg");
+  background-image: url("img3/icon-html.svg");
 }
 
 .skill-css {
   margin-left: 48px;
-  background-image: url("img/icon-css.svg");
+  background-image: url("img3/icon-css.svg");
 }
 
 .level {
@@ -274,7 +274,7 @@ body {
   height: 24px;
   min-height: unset;
   background-color: #8da2ed;
-  background-image: url("img/progress-pattern.svg");
+  background-image: url("img3/progress-pattern.svg");
 }
 
 .portfolio {
@@ -316,7 +316,7 @@ body {
   left: 24px;
   width: 64px;
   height: 64px;
-  background-image: url("img/decor-dots5.svg");
+  background-image: url("img3/decor-dots5.svg");
   background-repeat: no-repeat;
 }
 
@@ -327,7 +327,7 @@ body {
   right: 24px;
   width: 64px;
   height: 24px;
-  background-image: url("img/decor-dots4.svg");
+  background-image: url("img3/decor-dots4.svg");
   background-repeat: no-repeat;
 }
 
@@ -388,7 +388,7 @@ body {
   height: 20px;
   top: 14px;
   left: 29px;
-  background-image: url("img/icon-open-page.svg");
+  background-image: url("img3/icon-open-page.svg");
 }
 
 .button:focus,
@@ -438,10 +438,10 @@ body {
 
 .footer-email {
   padding-left: 30px;
-  background-image: url("img/icon-email-footer.svg");
+  background-image: url("img3/icon-email-footer.svg");
 }
 
 .footer-phone {
   padding-left: 25px;
-  background-image: url("img/icon-phone-footer.svg");
+  background-image: url("img3/icon-phone-footer.svg");
 }
